@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jQuery</title>
+    <script src="jquery.js"></script>
+</head>
+<body>
+    <h1>Ziwo Project</h1>
+    <p></p>
+    <br>
+    <p id="teste"> Pressione as teclas que aparecerão nos botões abaixo</p>
+    <br>
+
+
+  <input type="button" value="Start Game" id="botao" style="padding: 50px;">
+  <br>
+
+  <input type="button" value="A" id="botaumA" style="padding: 50px;">
+  <input type="button" value="B" id="botaumB" style="padding: 50px;">
+  <input type="button" value="C" id="botaumC" style="padding: 50px;">
+
+    <script>
+
+        $(document).ready(function () {
+            $('#botaumA').hide()
+            $('#botaumB').hide()
+            $('#botaumC').hide()
+
+              $('#botao').click(function(){
+                    $('#botao').hide()
+                    $('#botaumA').show()
+               
+               $('#botaumA').keydown(function pressA(){
+                $('#botaumA').hide()
+                $('#botaumB').show()
+
+                $('#botaumB').keypress(function pressB(){
+                    $('#botaumB').hide()
+                    $('#botaumC').show()
+
+                    $('#botaumC').keypress(function pressC(){
+                        $('#botaumC').hide()
+                        alert('You win!')
+                        
+
+
+                    })
+                })
+               })     
+              })
+        })
+
+
+        
+
+    </script>
+</body>
+</html>

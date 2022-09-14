@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOT Mika (switch-case)", "BOT Mika (switch-case)\BOT Mika (switch-case).csproj", "{CD29B544-FD93-4686-9222-A52DBDDF803C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD29B544-FD93-4686-9222-A52DBDDF803C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD29B544-FD93-4686-9222-A52DBDDF803C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD29B544-FD93-4686-9222-A52DBDDF803C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD29B544-FD93-4686-9222-A52DBDDF803C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FADFA8C-88DE-40BC-8A74-677F3E0E64A2}
+	EndGlobalSection
+EndGlobal

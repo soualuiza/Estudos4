@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "name": "Luiza",
+      "price": 1000.98,
+      "id": 2
+    },
+    {
+      "name": "Luiza",
+      "price": 100.98,
+      "id": 3
+    },
+    {
+      "name": "Luiza",
+      "price": 100.98,
+      "id": 4
+    },
+    {
+      "name": "Luiza",
+      "price": 100.98,
+      "id": 5
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 6
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 7
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 8
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 9
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 10
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

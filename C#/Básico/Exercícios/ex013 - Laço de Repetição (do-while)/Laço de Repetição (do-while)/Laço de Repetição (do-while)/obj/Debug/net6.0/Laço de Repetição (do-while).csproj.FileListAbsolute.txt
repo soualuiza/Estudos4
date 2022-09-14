@@ -1,0 +1,15 @@
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex013 - Laço de Repetição (do-while)\Laço de Repetição (do-while)\Laço de Repetição (do-while)\bin\Debug\net6.0\Laço de Repetição (do-while).exe
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex013 - Laço de Repetição (do-while)\Laço de Repetição (do-while)\Laço de Repetição (do-while)\bin\Debug\net6.0\Laço de Repetição (do-while).deps.json
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex013 - Laço de Repetição (do-while)\Laço de Repetição (do-while)\Laço de Repetição (do-while)\bin\Debug\net6.0\Laço de Repetição (do-while).runtimeconfig.json
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex013 - Laço de Repetição (do-while)\Laço de Repetição (do-while)\Laço de Repetição (do-while)\bin\Debug\net6.0\Laço de Repetição (do-while).dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex013 - Laço de Repetição (do-while)\Laço de Repetição (do-while)\Laço de Repetição (do-while)\bin\Debug\net6.0\Laço de Repetição (do-while).pdb
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex013 - Laço de Repetição (do-while)\Laço de Repetição (do-while)\Laço de Repetição (do-while)\obj\Debug\net6.0\Laço de Repetição (do-while).csproj.AssemblyReference.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex013 - Laço de Repetição (do-while)\Laço de Repetição (do-while)\Laço de Repetição (do-while)\obj\Debug\net6.0\Laço de Repetição (do-while).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex013 - Laço de Repetição (do-while)\Laço de Repetição (do-while)\Laço de Repetição (do-while)\obj\Debug\net6.0\Laço de Repetição (do-while).AssemblyInfoInputs.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex013 - Laço de Repetição (do-while)\Laço de Repetição (do-while)\Laço de Repetição (do-while)\obj\Debug\net6.0\Laço de Repetição (do-while).AssemblyInfo.cs
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex013 - Laço de Repetição (do-while)\Laço de Repetição (do-while)\Laço de Repetição (do-while)\obj\Debug\net6.0\Laço de Repetição (do-while).csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex013 - Laço de Repetição (do-while)\Laço de Repetição (do-while)\Laço de Repetição (do-while)\obj\Debug\net6.0\Laço de Repetição (do-while).dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex013 - Laço de Repetição (do-while)\Laço de Repetição (do-while)\Laço de Repetição (do-while)\obj\Debug\net6.0\refint\Laço de Repetição (do-while).dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex013 - Laço de Repetição (do-while)\Laço de Repetição (do-while)\Laço de Repetição (do-while)\obj\Debug\net6.0\Laço de Repetição (do-while).pdb
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex013 - Laço de Repetição (do-while)\Laço de Repetição (do-while)\Laço de Repetição (do-while)\obj\Debug\net6.0\Laço de Repetição (do-while).genruntimeconfig.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex013 - Laço de Repetição (do-while)\Laço de Repetição (do-while)\Laço de Repetição (do-while)\obj\Debug\net6.0\ref\Laço de Repetição (do-while).dll

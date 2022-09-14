@@ -1,0 +1,33 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+body {
+    background-color: rgba(255, 174, 244, 0.678);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    vertical-align: bottom;
+
+}
+
+div#caixa {
+        height: 800px;
+        border-radius: 10px;
+        margin: auto;
+        background-color: rgba(206, 30, 212, 0.384);
+        box-shadow: -3px 3px 9px 0px;
+
+
+}
+
+div
+
+footer {
+            text-align: center;
+            font-weight: bolder;
+            color: rgb(255, 240, 254);
+}

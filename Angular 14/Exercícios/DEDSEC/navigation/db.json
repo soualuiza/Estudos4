@@ -1,0 +1,115 @@
+{
+  "posts": [
+    {
+      "name": "God of War: Ragnarok",
+      "price": "299",
+      "id": 1
+    },
+    {
+      "name": "Grand Theft Auto: Trilogy",
+      "price": "300",
+      "id": 2
+    },
+    {
+      "name": "Grand Theft Auto V: Premium Edition",
+      "price": "120",
+      "id": 3
+    },
+    {
+      "name": "God of War ",
+      "price": "200",
+      "id": 4
+    },
+    {
+      "name": "Bully: Scolarship Edition",
+      "price": "20",
+      "id": 5
+    },
+    {
+      "name": "Far Cry 5",
+      "price": "150",
+      "id": 6
+    },
+    {
+      "name": "Far Cry 6",
+      "price": "250",
+      "id": 7
+    },
+    {
+      "name": "Naruto Ultimate Ninja Storm 3",
+      "price": "80",
+      "id": 8
+    },
+    {
+      "name": "Naruto Ultimate Ninja Storm 4",
+      "price": "139",
+      "id": 9
+    },
+    {
+      "name": " Grand Theft Auto IV: The Complete Edition",
+      "price": "40",
+      "id": 10
+    },
+    {
+      "name": "Days Gone",
+      "price": "160",
+      "id": 11
+    },
+    {
+      "name": "Need For Speed Heat ",
+      "price": "85.93",
+      "id": 12
+    }
+    
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "name": "Ana",
+      "price": 125.98,
+      "id": 2
+    },
+    {
+      "name": "Ana",
+      "price": 125.98,
+      "id": 3
+    },
+    {
+      "name": "Ana",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "Ana",
+      "price": 125.98,
+      "id": 5
+    },
+    {
+      "name": "Ana",
+      "price": 125.98,
+      "id": 6
+    },
+    {
+      "name": "Ana",
+      "price": 125.98,
+      "id": 7
+    },
+    {
+      "name": "Ana",
+      "price": 125.98,
+      "id": 8
+    },
+    {
+      "name": "Ana",
+      "price": 125.98,
+      "id": 9
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

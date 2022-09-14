@@ -1,0 +1,15 @@
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex005 - Convertendo Valores\Convertendo Valores\Convertendo Valores\bin\Debug\net6.0\Convertendo Valores.exe
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex005 - Convertendo Valores\Convertendo Valores\Convertendo Valores\bin\Debug\net6.0\Convertendo Valores.deps.json
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex005 - Convertendo Valores\Convertendo Valores\Convertendo Valores\bin\Debug\net6.0\Convertendo Valores.runtimeconfig.json
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex005 - Convertendo Valores\Convertendo Valores\Convertendo Valores\bin\Debug\net6.0\Convertendo Valores.dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex005 - Convertendo Valores\Convertendo Valores\Convertendo Valores\bin\Debug\net6.0\Convertendo Valores.pdb
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex005 - Convertendo Valores\Convertendo Valores\Convertendo Valores\obj\Debug\net6.0\Convertendo Valores.csproj.AssemblyReference.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex005 - Convertendo Valores\Convertendo Valores\Convertendo Valores\obj\Debug\net6.0\Convertendo Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex005 - Convertendo Valores\Convertendo Valores\Convertendo Valores\obj\Debug\net6.0\Convertendo Valores.AssemblyInfoInputs.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex005 - Convertendo Valores\Convertendo Valores\Convertendo Valores\obj\Debug\net6.0\Convertendo Valores.AssemblyInfo.cs
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex005 - Convertendo Valores\Convertendo Valores\Convertendo Valores\obj\Debug\net6.0\Convertendo Valores.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex005 - Convertendo Valores\Convertendo Valores\Convertendo Valores\obj\Debug\net6.0\Convertendo Valores.dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex005 - Convertendo Valores\Convertendo Valores\Convertendo Valores\obj\Debug\net6.0\refint\Convertendo Valores.dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex005 - Convertendo Valores\Convertendo Valores\Convertendo Valores\obj\Debug\net6.0\Convertendo Valores.pdb
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex005 - Convertendo Valores\Convertendo Valores\Convertendo Valores\obj\Debug\net6.0\Convertendo Valores.genruntimeconfig.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex005 - Convertendo Valores\Convertendo Valores\Convertendo Valores\obj\Debug\net6.0\ref\Convertendo Valores.dll

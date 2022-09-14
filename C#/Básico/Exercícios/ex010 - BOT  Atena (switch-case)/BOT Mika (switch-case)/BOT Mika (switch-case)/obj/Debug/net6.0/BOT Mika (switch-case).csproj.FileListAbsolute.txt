@@ -1,0 +1,15 @@
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex010 - BOT  Mika (switch-case)\BOT Mika (switch-case)\BOT Mika (switch-case)\bin\Debug\net6.0\BOT Mika (switch-case).exe
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex010 - BOT  Mika (switch-case)\BOT Mika (switch-case)\BOT Mika (switch-case)\bin\Debug\net6.0\BOT Mika (switch-case).deps.json
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex010 - BOT  Mika (switch-case)\BOT Mika (switch-case)\BOT Mika (switch-case)\bin\Debug\net6.0\BOT Mika (switch-case).runtimeconfig.json
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex010 - BOT  Mika (switch-case)\BOT Mika (switch-case)\BOT Mika (switch-case)\bin\Debug\net6.0\BOT Mika (switch-case).dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex010 - BOT  Mika (switch-case)\BOT Mika (switch-case)\BOT Mika (switch-case)\bin\Debug\net6.0\BOT Mika (switch-case).pdb
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex010 - BOT  Mika (switch-case)\BOT Mika (switch-case)\BOT Mika (switch-case)\obj\Debug\net6.0\BOT Mika (switch-case).csproj.AssemblyReference.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex010 - BOT  Mika (switch-case)\BOT Mika (switch-case)\BOT Mika (switch-case)\obj\Debug\net6.0\BOT Mika (switch-case).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex010 - BOT  Mika (switch-case)\BOT Mika (switch-case)\BOT Mika (switch-case)\obj\Debug\net6.0\BOT Mika (switch-case).AssemblyInfoInputs.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex010 - BOT  Mika (switch-case)\BOT Mika (switch-case)\BOT Mika (switch-case)\obj\Debug\net6.0\BOT Mika (switch-case).AssemblyInfo.cs
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex010 - BOT  Mika (switch-case)\BOT Mika (switch-case)\BOT Mika (switch-case)\obj\Debug\net6.0\BOT Mika (switch-case).csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex010 - BOT  Mika (switch-case)\BOT Mika (switch-case)\BOT Mika (switch-case)\obj\Debug\net6.0\BOT Mika (switch-case).dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex010 - BOT  Mika (switch-case)\BOT Mika (switch-case)\BOT Mika (switch-case)\obj\Debug\net6.0\refint\BOT Mika (switch-case).dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex010 - BOT  Mika (switch-case)\BOT Mika (switch-case)\BOT Mika (switch-case)\obj\Debug\net6.0\BOT Mika (switch-case).pdb
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex010 - BOT  Mika (switch-case)\BOT Mika (switch-case)\BOT Mika (switch-case)\obj\Debug\net6.0\BOT Mika (switch-case).genruntimeconfig.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex010 - BOT  Mika (switch-case)\BOT Mika (switch-case)\BOT Mika (switch-case)\obj\Debug\net6.0\ref\BOT Mika (switch-case).dll

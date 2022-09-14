@@ -1,0 +1,15 @@
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex004 - Comentários\Comentários\Comentários\bin\Debug\net6.0\Comentários.exe
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex004 - Comentários\Comentários\Comentários\bin\Debug\net6.0\Comentários.deps.json
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex004 - Comentários\Comentários\Comentários\bin\Debug\net6.0\Comentários.runtimeconfig.json
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex004 - Comentários\Comentários\Comentários\bin\Debug\net6.0\Comentários.dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex004 - Comentários\Comentários\Comentários\bin\Debug\net6.0\Comentários.pdb
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex004 - Comentários\Comentários\Comentários\obj\Debug\net6.0\Comentários.csproj.AssemblyReference.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex004 - Comentários\Comentários\Comentários\obj\Debug\net6.0\Comentários.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex004 - Comentários\Comentários\Comentários\obj\Debug\net6.0\Comentários.AssemblyInfoInputs.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex004 - Comentários\Comentários\Comentários\obj\Debug\net6.0\Comentários.AssemblyInfo.cs
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex004 - Comentários\Comentários\Comentários\obj\Debug\net6.0\Comentários.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex004 - Comentários\Comentários\Comentários\obj\Debug\net6.0\Comentários.dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex004 - Comentários\Comentários\Comentários\obj\Debug\net6.0\refint\Comentários.dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex004 - Comentários\Comentários\Comentários\obj\Debug\net6.0\Comentários.pdb
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex004 - Comentários\Comentários\Comentários\obj\Debug\net6.0\Comentários.genruntimeconfig.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex004 - Comentários\Comentários\Comentários\obj\Debug\net6.0\ref\Comentários.dll

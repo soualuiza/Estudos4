@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subtraindo</title>
+</head>
+<body>
+<h1>Subtraindo</h1>
+
+<input type="number" name="subt1" id="sub1"> -
+<input type="number" name="subt2" id="sub2">
+<input type="button" value="Resultado" onclick="click()">
+<div id="res">
+    ...
+</div>
+
+<script>
+        function click() {
+                            var s1 = document.getElementById('sub1')
+                            var s2 = document.getElementById('sub2')
+                            var r = document.getElementById('res')
+                            var n1 = Number(sub1.value)
+                            var n2 = Number(sub2.value)
+                            var rsl = n1 - n2 
+                            res.innerHTML = rsl
+                            
+
+        }
+</script>
+
+</body>
+</html>

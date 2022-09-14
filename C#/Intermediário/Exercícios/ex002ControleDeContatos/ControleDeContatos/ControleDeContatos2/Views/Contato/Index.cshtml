@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Contato";
+}
+
+
+
+
+
+<div class="text-center">
+    <h1 class="display-4">Listagem De Contatos</h1>
+
+    <br/>
+
+
+<table class="table">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">Linha</th>
+      <th scope="col">Nome</th>
+      <th scope="col">E-mail</th>
+      <th scope="col">Telefone</th>
+      <th> Ações </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>qwqweewqe@gmail.com</td>
+      <td>333-555</td>
+      <td> <a role="button" class="btn btn-secondary" asp-controller="Contato" asp-action="editar">Editar</a>
+  <a role="button" type="button" class="btn btn-danger" asp-controller="Contato" asp-action="apagarConfirmacao">Apagar</a> </td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Otto</td>
+      <td>kek@gmail.com</td>
+      <td>444-666</td>
+      <td> <a role="button" class="btn btn-secondary" asp-controller="Contato" asp-action="editar">Editar</a>
+  <a role="button" type="button" class="btn btn-danger" asp-controller="Contato" asp-action="apagarConfirmacao">Apagar</a> </td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Chad</td>
+      <td>var@gmail.com</td>
+      <td>555-777</td>
+      <td> <a role="button" class="btn btn-secondary"  asp-controller="Contato" asp-action="editar">Editar</a>
+  <a role="button" type="button" class="btn btn-danger" asp-controller="Contato" asp-action="apagarConfirmacao">Apagar</a> </td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="btn-group" role="group" aria-label="Basic example">
+  
+</div>
+
+<div class="ccontact">
+    <a class="btn btn-success btn-tool" role="button"  asp-controller="Contato" asp-action="criar" >
+        Criar novo contato
+    </a>
+</div>
+

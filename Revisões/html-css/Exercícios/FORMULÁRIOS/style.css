@@ -1,0 +1,7 @@
+form {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 177px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}

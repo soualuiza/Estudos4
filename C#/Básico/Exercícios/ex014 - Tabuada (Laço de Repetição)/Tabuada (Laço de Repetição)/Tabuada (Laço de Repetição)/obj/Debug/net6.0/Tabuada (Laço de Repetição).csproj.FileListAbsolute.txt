@@ -1,0 +1,15 @@
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\bin\Debug\net6.0\Tabuada (Laço de Repetição).exe
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\bin\Debug\net6.0\Tabuada (Laço de Repetição).deps.json
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\bin\Debug\net6.0\Tabuada (Laço de Repetição).runtimeconfig.json
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\bin\Debug\net6.0\Tabuada (Laço de Repetição).dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\bin\Debug\net6.0\Tabuada (Laço de Repetição).pdb
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\obj\Debug\net6.0\Tabuada (Laço de Repetição).csproj.AssemblyReference.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\obj\Debug\net6.0\Tabuada (Laço de Repetição).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\obj\Debug\net6.0\Tabuada (Laço de Repetição).AssemblyInfoInputs.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\obj\Debug\net6.0\Tabuada (Laço de Repetição).AssemblyInfo.cs
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\obj\Debug\net6.0\Tabuada (Laço de Repetição).csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\obj\Debug\net6.0\Tabuada (Laço de Repetição).dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\obj\Debug\net6.0\refint\Tabuada (Laço de Repetição).dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\obj\Debug\net6.0\Tabuada (Laço de Repetição).pdb
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\obj\Debug\net6.0\Tabuada (Laço de Repetição).genruntimeconfig.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\Tabuada (Laço de Repetição)\obj\Debug\net6.0\ref\Tabuada (Laço de Repetição).dll

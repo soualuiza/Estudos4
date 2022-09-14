@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subtraindo</title>
+</head>
+<body>
+    <h1>Subtraindo</h1>
+<input type="number" name="subtr1" id="sub1"> -
+<input type="number" name="subtr2" id="sub2">
+<input type="button" value="Resultado" id="result" onclick="clicada()">
+<div id="rsl">...</div>
+
+<script>
+            function clicada () {
+
+                var s1 = document.getElementById('sub1')
+                var s2 = document.getElementById('sub2')
+                var r  = document.getElementById('rsl')
+                n1 = Number(sub1.value);
+                n2 = Number(sub2.value);
+                var rsv = n1 - n2
+                rsl.innerHTML = rsv
+
+            }
+
+</script>
+</body>
+</html>

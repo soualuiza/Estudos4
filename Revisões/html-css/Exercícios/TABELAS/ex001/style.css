@@ -1,0 +1,21 @@
+table {
+
+    border: 2px solid black; /* Atribui uma borda a todo o contorno da tabela. */
+    border-collapse: collapse; /* Junta a borda da tabela, tornando-a uniforme. */
+    height: 250px;             /* Define a ALTURA da borda*/
+    width: 250px;              /*Define a LARGURA da borda*/
+
+}
+
+tr  
+
+td {
+
+    border: 2px solid black /* Atirbui uma borda a todos os dados da tabela */
+    ;
+    padding: 5px;              /* Atribui ESPAÇAMENTO aos DADOS DA TABELA. */
+    text-align: center;        /* Alinha  HORIZONTALMENTE os DADOS DA TABELA. */
+    vertical-align: top;        /* Alinha VERTICALMENTE os DADOS DA TABELA. */
+
+
+}

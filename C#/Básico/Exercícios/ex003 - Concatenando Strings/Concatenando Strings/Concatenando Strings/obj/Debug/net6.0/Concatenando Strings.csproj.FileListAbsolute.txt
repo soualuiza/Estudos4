@@ -1,0 +1,15 @@
+C:\Users\Work\Documents\Estudos-master\C#\Exercícios\ex003 - Concatenando Strings\Concatenando Strings\Concatenando Strings\bin\Debug\net6.0\Concatenando Strings.exe
+C:\Users\Work\Documents\Estudos-master\C#\Exercícios\ex003 - Concatenando Strings\Concatenando Strings\Concatenando Strings\bin\Debug\net6.0\Concatenando Strings.deps.json
+C:\Users\Work\Documents\Estudos-master\C#\Exercícios\ex003 - Concatenando Strings\Concatenando Strings\Concatenando Strings\bin\Debug\net6.0\Concatenando Strings.runtimeconfig.json
+C:\Users\Work\Documents\Estudos-master\C#\Exercícios\ex003 - Concatenando Strings\Concatenando Strings\Concatenando Strings\bin\Debug\net6.0\Concatenando Strings.dll
+C:\Users\Work\Documents\Estudos-master\C#\Exercícios\ex003 - Concatenando Strings\Concatenando Strings\Concatenando Strings\bin\Debug\net6.0\Concatenando Strings.pdb
+C:\Users\Work\Documents\Estudos-master\C#\Exercícios\ex003 - Concatenando Strings\Concatenando Strings\Concatenando Strings\obj\Debug\net6.0\Concatenando Strings.csproj.AssemblyReference.cache
+C:\Users\Work\Documents\Estudos-master\C#\Exercícios\ex003 - Concatenando Strings\Concatenando Strings\Concatenando Strings\obj\Debug\net6.0\Concatenando Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Documents\Estudos-master\C#\Exercícios\ex003 - Concatenando Strings\Concatenando Strings\Concatenando Strings\obj\Debug\net6.0\Concatenando Strings.AssemblyInfoInputs.cache
+C:\Users\Work\Documents\Estudos-master\C#\Exercícios\ex003 - Concatenando Strings\Concatenando Strings\Concatenando Strings\obj\Debug\net6.0\Concatenando Strings.AssemblyInfo.cs
+C:\Users\Work\Documents\Estudos-master\C#\Exercícios\ex003 - Concatenando Strings\Concatenando Strings\Concatenando Strings\obj\Debug\net6.0\Concatenando Strings.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Estudos-master\C#\Exercícios\ex003 - Concatenando Strings\Concatenando Strings\Concatenando Strings\obj\Debug\net6.0\Concatenando Strings.dll
+C:\Users\Work\Documents\Estudos-master\C#\Exercícios\ex003 - Concatenando Strings\Concatenando Strings\Concatenando Strings\obj\Debug\net6.0\refint\Concatenando Strings.dll
+C:\Users\Work\Documents\Estudos-master\C#\Exercícios\ex003 - Concatenando Strings\Concatenando Strings\Concatenando Strings\obj\Debug\net6.0\Concatenando Strings.pdb
+C:\Users\Work\Documents\Estudos-master\C#\Exercícios\ex003 - Concatenando Strings\Concatenando Strings\Concatenando Strings\obj\Debug\net6.0\Concatenando Strings.genruntimeconfig.cache
+C:\Users\Work\Documents\Estudos-master\C#\Exercícios\ex003 - Concatenando Strings\Concatenando Strings\Concatenando Strings\obj\Debug\net6.0\ref\Concatenando Strings.dll

@@ -1,0 +1,26 @@
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\bin\Debug\net6.0\ex001 - ProjetoMVC.staticwebassets.runtime.json
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\bin\Debug\net6.0\ex001 - ProjetoMVC.exe
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\bin\Debug\net6.0\ex001 - ProjetoMVC.deps.json
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\bin\Debug\net6.0\ex001 - ProjetoMVC.runtimeconfig.json
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\bin\Debug\net6.0\ex001 - ProjetoMVC.dll
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\bin\Debug\net6.0\ex001 - ProjetoMVC.pdb
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\ex001 - ProjetoMVC.csproj.AssemblyReference.cache
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\ex001 - ProjetoMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\ex001 - ProjetoMVC.AssemblyInfoInputs.cache
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\ex001 - ProjetoMVC.AssemblyInfo.cs
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\ex001 - ProjetoMVC.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\ex001 - ProjetoMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\ex001 - ProjetoMVC.RazorAssemblyInfo.cache
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\ex001 - ProjetoMVC.RazorAssemblyInfo.cs
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\scopedcss\bundle\ex001 - ProjetoMVC.styles.css
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\scopedcss\projectbundle\ex001 - ProjetoMVC.bundle.scp.css
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\ex001 - ProjetoMVC.dll
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\refint\ex001 - ProjetoMVC.dll
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\ex001 - ProjetoMVC.pdb
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\ex001 - ProjetoMVC.genruntimeconfig.cache
+C:\Users\Work\Documents\Estudos\C#\Intermediário\Exercícios\ex001 - ProjetoMVC\ex001 - ProjetoMVC\obj\Debug\net6.0\ref\ex001 - ProjetoMVC.dll

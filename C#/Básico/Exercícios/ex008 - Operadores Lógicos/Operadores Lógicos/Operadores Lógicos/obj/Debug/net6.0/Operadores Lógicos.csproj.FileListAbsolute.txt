@@ -1,0 +1,15 @@
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex008 - Operadores Lógicos\Operadores Lógicos\Operadores Lógicos\bin\Debug\net6.0\Operadores Lógicos.exe
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex008 - Operadores Lógicos\Operadores Lógicos\Operadores Lógicos\bin\Debug\net6.0\Operadores Lógicos.deps.json
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex008 - Operadores Lógicos\Operadores Lógicos\Operadores Lógicos\bin\Debug\net6.0\Operadores Lógicos.runtimeconfig.json
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex008 - Operadores Lógicos\Operadores Lógicos\Operadores Lógicos\bin\Debug\net6.0\Operadores Lógicos.dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex008 - Operadores Lógicos\Operadores Lógicos\Operadores Lógicos\bin\Debug\net6.0\Operadores Lógicos.pdb
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex008 - Operadores Lógicos\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\Operadores Lógicos.csproj.AssemblyReference.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex008 - Operadores Lógicos\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\Operadores Lógicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex008 - Operadores Lógicos\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\Operadores Lógicos.AssemblyInfoInputs.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex008 - Operadores Lógicos\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\Operadores Lógicos.AssemblyInfo.cs
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex008 - Operadores Lógicos\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\Operadores Lógicos.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex008 - Operadores Lógicos\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\Operadores Lógicos.dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex008 - Operadores Lógicos\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\refint\Operadores Lógicos.dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex008 - Operadores Lógicos\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\Operadores Lógicos.pdb
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex008 - Operadores Lógicos\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\Operadores Lógicos.genruntimeconfig.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex008 - Operadores Lógicos\Operadores Lógicos\Operadores Lógicos\obj\Debug\net6.0\ref\Operadores Lógicos.dll

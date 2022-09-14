@@ -1,0 +1,39 @@
+
+div#R, div#G, div#B {
+    position: relative;
+    float: right; 
+    
+    /**[float] Flutua o elemento desejado numa posição desejada, como left ou right. */
+    
+}
+
+div#R {
+    width: 120px;
+    height: 120px;
+    background-color: red;
+    text-align: center;
+    color: white;
+    border: 1px solid black;
+    
+}
+
+div#G {
+    width: 120px;
+    height: 120px;
+    background-color: green;
+    text-align: center;
+    color: white;
+    border: 1px solid black;
+}
+
+
+div#B {
+    width: 120px;
+    height: 120px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    border: 1px solid black;
+}
+
+

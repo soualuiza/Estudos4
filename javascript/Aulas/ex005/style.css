@@ -1,0 +1,22 @@
+* {
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+        background-color: grey;
+
+}
+
+h1 {
+        color: white
+}
+
+p {
+        color: chartreuse;
+        font-weight: bolder;
+}
+
+div {
+        color: blueviolet;
+        font-weight: bolder, lighter;
+}

@@ -1,0 +1,15 @@
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada2\Tabuada2\bin\Debug\net6.0\Tabuada2.exe
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada2\Tabuada2\bin\Debug\net6.0\Tabuada2.deps.json
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada2\Tabuada2\bin\Debug\net6.0\Tabuada2.runtimeconfig.json
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada2\Tabuada2\bin\Debug\net6.0\Tabuada2.dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada2\Tabuada2\bin\Debug\net6.0\Tabuada2.pdb
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada2\Tabuada2\obj\Debug\net6.0\Tabuada2.csproj.AssemblyReference.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada2\Tabuada2\obj\Debug\net6.0\Tabuada2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada2\Tabuada2\obj\Debug\net6.0\Tabuada2.AssemblyInfoInputs.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada2\Tabuada2\obj\Debug\net6.0\Tabuada2.AssemblyInfo.cs
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada2\Tabuada2\obj\Debug\net6.0\Tabuada2.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada2\Tabuada2\obj\Debug\net6.0\Tabuada2.dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada2\Tabuada2\obj\Debug\net6.0\refint\Tabuada2.dll
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada2\Tabuada2\obj\Debug\net6.0\Tabuada2.pdb
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada2\Tabuada2\obj\Debug\net6.0\Tabuada2.genruntimeconfig.cache
+C:\Users\Work\Documents\Estudos\C#\Exercícios\ex014 - Tabuada (Laço de Repetição)\Tabuada2\Tabuada2\obj\Debug\net6.0\ref\Tabuada2.dll

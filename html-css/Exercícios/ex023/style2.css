@@ -1,0 +1,32 @@
+table {
+    background-color: black;
+    color: white;
+    border-collapse: collapse;
+    height: 150px;
+    width: 600px;
+}
+
+td {
+    border: 2px solid rgb(243, 0, 0);
+}
+
+
+td.nomes {
+    text-align: left;
+}
+
+
+td.artista {
+                text-align: center;
+}
+
+
+
+
+td.header {
+                text-align: center;
+}
+
+td.num {
+                text-align: right;
+}

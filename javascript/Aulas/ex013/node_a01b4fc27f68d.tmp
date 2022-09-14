@@ -1,0 +1,28 @@
+var hr = 12
+
+while(hr <= 23) {
+      console.log(`Agora são ${hr} horas.`)
+
+if (hr <= 5 && hr >= 0) {
+                            console.log('Madrugada')
+}
+
+if (hr >= 6 && hr <= 11) {
+                            console.log('Manhã')
+                            
+}
+
+if (hr >= 12 && hr <= 17) {
+                            console.log('Tarde')
+}
+
+if (hr >= 18 && hr <= 23) {
+                            console.log('Noite')
+}
+
+if  (hr > 23) {
+                console.log('[ERRO!] INSIRA UM HORÁRIO DE 00H ATÉ 23H')
+              }
+  }                
+
+

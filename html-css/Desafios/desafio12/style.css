@@ -1,0 +1,118 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
+
+
+
+
+* {
+            margin: 0px;
+            padding: 0px;
+}
+
+html, body {
+            min-height: 100vh;
+            background-color: darkgrey;
+}
+
+header{
+            background-color: black;
+            color: white;
+            text-align: center;
+}
+
+header > h1 {
+            font-style: r;
+            font-family: 'Rock Salt', cursive;
+            font-variant: small-caps;
+            
+}
+
+header > p {
+            padding-bottom: 50px;
+            font-style: normal;
+
+
+}
+
+
+
+a {
+
+            color: white;
+            text-decoration: none;
+            font-weight: bolder;
+}
+
+a:hover {
+            text-decoration: underline;
+}
+
+
+
+p {
+    font-family: 'La Belle Aurore', cursive;
+    font-size: 25px;
+    font-weight: bolder;
+    
+}
+
+section {
+            padding-top: 10vh ;
+            padding-bottom: 10vh;
+            line-height: 2em;
+            padding-left: 3cm;
+}
+
+section.normal {
+            background-color: white;
+            color: black;
+}
+
+section.imagem {
+            background-color: black;
+            color: white;
+           
+}
+
+section.imagem > p {
+            background-color: rgba(82, 78, 78, 0.295);
+            color: white;
+            width: 400px;
+}
+
+footer {
+
+            background-color: black;
+            color: red;
+            text-align: right;
+            padding: 10px;
+}
+
+
+footer > a#foot {
+
+            color: red;
+
+}
+
+footer > a#foot:hover {
+
+            text-decoration: underline;
+            color: aliceblue;
+}
+
+a{
+    text-decoration:none;
+    font-size:20px;
+    color:#FFF;
+    background-color:#800;
+    padding: 15px 15px 15px 15px;
+    display:inline-block;
+}
+a:hover{
+    background-color:#F00;
+    border-radius: 10px;
+}

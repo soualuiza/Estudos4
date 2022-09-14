@@ -1,0 +1,32 @@
+<div>
+   <mat-card>
+   <mat-card-title> Criar um Produto</mat-card-title>
+      <form>
+               <mat-form-field>
+                          <input matInput placeholder="Nome" [(ngModel)]="product.name" name="name" >  <!-- *Two-way databinding aplicado na caixa de preenchimento de nome do produto.   -->
+   
+                                                                                                                           <!-- [[[[9]]]]. São feitos os inputs que irão disparar a requisição html para gerar o novo produto, nestes inputs,
+                                                                                                                                           aplicaremos o two-way databinding, tanto na caixa0 de nome quanto na caixa de preço. -->
+               </mat-form-field>
+                               <br>
+               <mat-form-field>
+                   <input matInput placeholder="Preço (R$)" [(ngModel)]="product.price" name="price"> <!-- *Two-way databinding aplicado na caixa de preenchimento do PREÇO do produto.-->
+   
+                                                                                                       <!-- Enfim, conseguimos agora enviar um produto ao database com sucesso. -->
+               </mat-form-field>
+                                   <br>
+   
+               <button  id='criar'(click)="createProduct()">Criar Produto</button>
+               <button id='voltar' (click)="reverse()" routerLink="home">Cancelar</button>
+      </form>
+   
+   </mat-card>
+</div>
+
+<app-product-read></app-product-read>
+
+
+
+
+
+

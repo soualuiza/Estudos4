@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Criar Contato";
+}
+
+<h1>Cadastrar um Contato</h1>
+
+<form>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Nome</label>
+    <input type="text" class="form-control"  placeholder="Chamber">
+  </div>
+  <br />
+  <div class="form-group">
+    <label for="exampleInputPassword1">E-mail</label>
+    <input type="email" class="form-control" id="exampleInputPassword1" placeholder="chamber@example.com">
+  </div>
+  <br />
+  <div class="form-group">
+    <label for="exampleInputPassword1">Telefone</label>
+    <input type="number" class="form-control" id="exampleInputPassword1" placeholder="+55 31 9957564415">
+  </div>
+  <br />
+  <button type="submit" class="btn btn-primary btn-block">Salvar</button>
+    <button type="submit" class="btn btn-warning" asp-controller="Contato" asp-action="Index">Voltar</button>
+
+</form>
+
